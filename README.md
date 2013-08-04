@@ -28,3 +28,7 @@ Icons based on [freeware](http://www.iconarchive.com/show/simple-icons-by-danlee
 ## License
 
 [WTFBPPL](http://tomlea.co.uk/WTFBPPL.txt)
+
+## See Also
+
+The official Pinboard browser extensions (I only discovered after creating this): https://pinboard.in/resources/#plugins
