@@ -31,4 +31,5 @@ Icons based on [freeware](http://www.iconarchive.com/show/simple-icons-by-danlee
 
 ## See Also
 
-The official Pinboard browser extensions (I only discovered after creating this): https://pinboard.in/resources/#plugins
+The [official Pinboard browser extensions](https://pinboard.in/extensions/). (I only discovered the official extensions after I had already created this).
+Specifically, the [Pinboard Tools](https://chrome.google.com/webstore/detail/pinboard-tools/dpaohcncbmkojcpcjaojcehdlnjfbjkl?hl=en) Chrome Extension.
